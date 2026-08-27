@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack",
+  "description": "Aplicativo de treino de musculação, evolução física e composição corporal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
